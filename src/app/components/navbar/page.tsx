@@ -22,10 +22,11 @@ const Navbar: React.FC = () => {
         </button>
 
         <Link href="/" legacyBehavior>
-          <a className="flex-shrink-0 text-3xl font-bold text-gray-900 cursor-pointer">
-            Teclados
-          </a>
-        </Link>
+  <a className="flex-shrink-0 text-3xl font-bold text-gray-900 cursor-pointer ml-60">
+    TecladosLabs
+  </a>
+</Link>
+
         <div className="flex-grow">
           <ul className="flex items-center justify-center space-x-10 text-lg">
             <li>
